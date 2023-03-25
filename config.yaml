@@ -1,0 +1,87 @@
+baseURL: https://ventavoli.com
+title: Gabriella Ventavoli Pittrice
+defaultContentLanguage: 'it'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/ferro_e_fuoco_1.jpg
+  subtitle: Sito della Pittrice Gabriella Ventavoli # todo: change default subtitle for your website.
+  copyright: 2023 Tutti i diritti riservati. 
+  author: Gabriella Ventavoli
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        work: 2
+        immagini-dalla-violenza: 1
+        strade-stragi: 1
+        trasfigurazioni-al-femminile: 1
+        uomini-del-nostro-tempo: 1
+      mobile:
+        work: 2
+        immagini-dalla-violenza: 1
+        strade-stragi: 1
+        trasfigurazioni-al-femminile: 1
+        uomini-del-nostro-tempo: 1
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:info@ventavoli.com'
+      landing: true
+    - icon: 'fab fa-facebook fa-lg'
+      url: 'https://www.facebook.com/kalia.dallospazio'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://www.instagram.com/gabriellaventavoli/'
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://www.linkedin.com/in/gabriella-ventavoli-7790a81ba/'
+  homepage: "/intro" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - archive
+    - intro
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: true
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: intro
+      url: /intro/
+      weight: 10
+    - name: uomini
+      url: /tags/uomini/
+      weight: 20
+    - name: violenza
+      url: /tags/violenza/
+      weight: 21
+    - name: ferro e fuoco
+      url: /tags/ferro/
+      weight: 22
+    - name: strade
+      url: /tags/strade/
+      weight: 23
+    - name: trasfigurazioni
+      url: /tags/trasfigurazioni/
+      weight: 24
+    - name: esposizioni
+      url: /expo/
+      weight: 30
+    - name: tutte le opere
+      url: /tags/archive/
+      weight: 40
