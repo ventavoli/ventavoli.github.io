@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/vite_perdute_1.jpg
-title: Vite perdute 1
+- /images/Strade_Stragi_7.jpeg
+title: Strade Stragi 7
 date: 2022-07-23
 tags:
 - archive # all posts

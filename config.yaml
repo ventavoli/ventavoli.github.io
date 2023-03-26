@@ -67,21 +67,27 @@ menu:
     - name: intro
       url: /intro/
       weight: 10
-    - name: uomini
+    - name: uomini del nostro tempo
       url: /tags/uomini/
       weight: 20
-    - name: violenza
+    - name: immagini della violenza
       url: /tags/violenza/
       weight: 21
     - name: ferro e fuoco
       url: /tags/ferro/
       weight: 22
-    - name: strade
+    - name: strade stragi
       url: /tags/strade/
       weight: 23
-    - name: trasfigurazioni
-      url: /tags/trasfigurazioni/
+    - name: terra
+      url: /tags/terra/
       weight: 24
+    - name: trasfigurazioni al femminile
+      url: /tags/trasfigurazioni/
+      weight: 25
+    - name: violenza sulle donne
+      url: /tags/violenza-donne/
+      weight: 26
     - name: esposizioni
       url: /expo/
       weight: 30

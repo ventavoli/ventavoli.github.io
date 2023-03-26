@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/dopo_l_impatto.jpg
-title: Dopo l'impatto
+- /images/Grido_nel_buio.jpeg
+title: Grido nel buio
 date: 2022-07-23
 tags:
 - archive # all posts

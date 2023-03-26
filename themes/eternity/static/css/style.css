@@ -90,7 +90,7 @@ nav.navbar {
     height: unset !important;
     margin-left: 2em;
     margin-right: 2em;
-    padding-top: 1em;
+    padding-top: 3em;
 }
 
 .navbar-burger {
@@ -99,7 +99,7 @@ nav.navbar {
 }
 
 .menu {
-    max-width: 600px;
+    max-width: 800px;
 }
 
 .margin-bottom-50 {

@@ -1,7 +1,7 @@
 ---
 weight: 40
 images:
-- /images/pentito.jpg
+- /images/Pentito.jpeg
 title: Pentito
 date: 2022-07-23
 tags:

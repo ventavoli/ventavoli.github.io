@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-- /images/torera_1.jpg
+- /images/La_torera_1.jpeg
 title: La Torera 1
 date: 2022-07-23
 tags:

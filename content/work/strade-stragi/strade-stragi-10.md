@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/ultima_frenata.jpg
-title: Ultima frenata
+- /images/Nel_sangue.jpeg
+title: Nel sangue
 date: 2022-07-23
 tags:
 - archive # all posts

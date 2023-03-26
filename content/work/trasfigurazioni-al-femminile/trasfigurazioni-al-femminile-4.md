@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/arabe.jpg
-title: Arabe
+- /images/Donna_sul_divano_rosso.jpeg
+title: Donna sul divano rosso
 date: 2022-07-23
 tags:
 - archive # all posts

@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/nella_nebbia.jpg
-title: Nella nebbia
+- /images/De-Formazione.jpeg
+title: De-Formazione
 date: 2022-07-23
 tags:
 - archive # all posts

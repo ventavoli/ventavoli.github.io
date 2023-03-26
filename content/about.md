@@ -1,6 +1,6 @@
 ---
 images:
-- /images/ferro_e_fuoco_1.jpg
+- /images/Angeli_nel_fuoco_1.jpeg
 title: about
 url: about
 hideTitle: true

@@ -1,8 +1,8 @@
 ---
 weight: 1
 images:
-- /images/corpi_sull_asfalto.jpg
-title: Corpi sull'asfalto
+- /images/Strade_Stragi_2.jpeg
+title: Strade Stragi 2
 date: 2022-07-23
 tags:
 - archive # all posts

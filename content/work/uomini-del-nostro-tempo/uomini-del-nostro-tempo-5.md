@@ -1,8 +1,8 @@
 ---
 weight: 50
 images:
-- /images/prete.jpg
-title: prete
+- /images/Prete.jpeg
+title: Prete
 date: 2022-07-23
 tags:
 - archive # all posts

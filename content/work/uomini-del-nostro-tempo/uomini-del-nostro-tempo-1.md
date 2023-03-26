@@ -1,8 +1,8 @@
 ---
 weight: 10
 images:
-- /images/abbraccio.jpg
-title: Abbraccio
+- /images/L_abbraccio.jpeg
+title: L'Abbraccio
 date: 2022-07-23
 tags:
 - archive # all posts

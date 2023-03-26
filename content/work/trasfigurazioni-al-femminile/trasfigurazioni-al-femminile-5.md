@@ -1,7 +1,7 @@
 ---
 weight: 1
 images:
-- /images/burka.jpg
+- /images/Burka.jpeg
 title: Burka
 date: 2022-07-23
 tags:
