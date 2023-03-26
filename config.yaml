@@ -3,6 +3,7 @@ title: Gabriella Ventavoli Pittrice
 defaultContentLanguage: 'it'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
+timeout: 5m
 
 params:
   image: /images/ferro_e_fuoco_1.jpg
