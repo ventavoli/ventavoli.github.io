@@ -2,7 +2,7 @@ baseURL: https://ventavoli.com
 title: Gabriella Ventavoli Pittrice
 defaultContentLanguage: 'it'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: 'G-T6J73DEP7K' # todo: set your analytics id.
 timeout: 5m
 
 params:
