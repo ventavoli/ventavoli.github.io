@@ -4,6 +4,7 @@ images:
 - /images/Nella_nebbia.jpeg
 title: Nella nebbia
 hideExif: true
+hideDate: true
 date: 2022-07-23
 tags:
 - archive # all posts

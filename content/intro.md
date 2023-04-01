@@ -5,6 +5,7 @@ url: intro
 hideTitle: true
 hideExif: true
 hideDate: true
+hideDate: true
 ---
 
 # Trasfigurazioni

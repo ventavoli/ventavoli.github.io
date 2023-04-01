@@ -4,6 +4,7 @@ images:
 - /images/Il_martirio_della_terra.jpeg
 title: Il martirio della terra
 hideExif: true
+hideDate: true
 date: 2022-07-23
 tags:
 - archive # all posts

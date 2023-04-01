@@ -4,6 +4,7 @@ images:
 - /images/Nel_sangue.jpeg
 title: Nel sangue
 hideExif: true
+hideDate: true
 date: 2022-07-23
 tags:
 - archive # all posts

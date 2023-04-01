@@ -5,6 +5,7 @@ url: expo
 hideTitle: true
 hideExif: true
 hideDate: true
+hideDate: true
 ---
 
 Diplomata con la maturità classica si è laureata in Scienze Biologiche e successivamente in Medicina.

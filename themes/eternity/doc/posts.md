@@ -82,6 +82,7 @@ tags:
 - first
 date: 2022-07-24
 hideExif: true
+hideDate: true
 ---
 ```
 
@@ -96,6 +97,7 @@ subtitle: Here's who am I.
 url: me
 hideTitle: true
 hideExif: true
+hideDate: true
 hideDate: true
 ---
 ```
