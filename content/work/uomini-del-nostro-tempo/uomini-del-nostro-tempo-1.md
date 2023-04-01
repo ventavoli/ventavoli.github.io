@@ -3,6 +3,7 @@ weight: 10
 images:
 - /images/L_abbraccio.jpeg
 title: L'Abbraccio
+hideExif: true
 date: 2022-07-23
 tags:
 - archive # all posts
