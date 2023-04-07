@@ -1,13 +1,13 @@
 baseURL: https://ventavoli.com
-title: Gabriella Ventavoli Pittrice
+title: Gabriella Ventavoli Artista
 defaultContentLanguage: 'it'
 theme: eternity
 googleAnalytics: 'G-T6J73DEP7K' # todo: set your analytics id.
 timeout: 5m
 
 params:
-  image: /images/ferro_e_fuoco_1.jpg
-  subtitle: Sito della Pittrice Gabriella Ventavoli # todo: change default subtitle for your website.
+  image: /images/La_bellezza_del_mare.jpeg
+  subtitle: Sito dell'artista Gabriella Ventavoli # todo: change default subtitle for your website.
   copyright: 2023 Tutti i diritti riservati. 
   author: Gabriella Ventavoli
   dontShowSource: false # please, do not do this :)
@@ -89,8 +89,8 @@ menu:
     - name: violenza sulle donne
       url: /tags/violenza-donne/
       weight: 26
-    - name: esposizioni
-      url: /expo/
+    - name: biografia
+      url: /about/
       weight: 30
     - name: tutte le opere
       url: /tags/archive/

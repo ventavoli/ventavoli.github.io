@@ -1,4 +1,4 @@
 ---
 desc:
-- Sito personale della pittrice Gabriella Ventavoli
+- Sito personale dell'artista Gabriella Ventavoli
 ---

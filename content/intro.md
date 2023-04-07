@@ -8,20 +8,13 @@ hideDate: true
 hideDate: true
 ---
 
-# Trasfigurazioni
+# Introduzione
 
-_Tutto avviene al di là della figura_
+La mia arte ha tratto profonda ispirazione anche dal mio lavoro di psicoanalista, un lungo cammino,
+durante il quale ho affrontato temi di impegno sociale e culturale: la violenza contro la donna, contro
+l’ambiente, la difesa della cultura, del diritto allo studio, l’emancipazione di tutti gli esseri umani
+attraverso la scuolo.
 
-La pittura di Gabriella Ventavoli è un gesto, un segno, un colore. Ma anche un desiderio, un illusione, un sogno. A volte una passione.
+Ho usato le immagini come una narrazione di questi temi fondamentali.
 
-Le opere di Gabriella Ventavoli scorrono dinanzi agli occhi con la logica sequenza di un film, il film della vita.
-
-In ogni storia si rincorrono le singole emozioni più che gli eventi. L'accaduto passa, resta un odore, un colore, una sensazione. Il resto scivola via, con un sorriso o con un pianto.
-
-Gabriella Ventavoli dipinge trasfigurando, un mondo fatto di forme talvolta morbide, voluttuose o imponenti e dilatabili.
-
-Tutto sembra danzare sul palcoscenico dei nostri occhi. Quell'accattivante pretesto formale che è la pittura, riesce a farci vedere un movimento che era nella mente dell'autrice.
-
-Dipingere significa segnare. E un segno è il sangue. Rosso come la muleta della "Torera" o come il fuoco delle "Fonderie" che passa anche attraverso il corpo degli operai delle fonderie.
-
-Da un testo critico di Enzo Battarra
+La pittura è divenuta lo strumento prediletto di trasmissione del messaggio esistenzialie rafforzato tramite le linee e il colore, linee nelle quali il critico d’arte Vittorio Sgarbi ha visto “un vortice di energia grafica e cromatica”.
