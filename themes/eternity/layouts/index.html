@@ -3,6 +3,14 @@
 {{ if .Site.Params.BypassWelcomePage }}
 <head>
 	<meta http-equiv="refresh" content="0; URL={{ relref . .Site.Params.Homepage }}" />
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4620279-2"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'UA-4620279-2');
+	</script>
 </head>
 {{ else }}
 <section class="hero is-fullheight welcome"
